@@ -4,7 +4,7 @@
 var config = {
     apiKey: "AIzaSyCUa3OmzBQAV9MHxQg6Pgl2s5533V5qjEI",
     authDomain: "coder-bay-fee9d.firebaseapp.com",
-    databaseURL: "https://coder-bay-fee9d.firebaseio.com",
+    databaseURL: "https://ruckus-project.firebaseio.com/",
     storageBucket: "coder-bay-fee9d.appspot.com",
     messagingSenderId: "197588280568"
   };
